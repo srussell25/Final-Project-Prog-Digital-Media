@@ -27,7 +27,7 @@
 
 
 **Visual Representation of Hardware:**
-![Live Representaton of Hardware](/libraries/Live-Arduino-Rep.jpg)
+![Live Representaton of Hardware](libraries/Live-Arduino-Rep.jpg)
 
 **Future Development Ideas:**
 - I would definitely consider having a "3 lives" system where every time the user dies they would have another life to try again until they got to 0 lives then iti would launch the game over sequence. With this, I would definitly add more LEDs to the Arduino to symbolize those lives being taken once the user is tagged. This would make the game more modern and interactive. I also would put more music in the game other than just having sounds go off when you press a button.
